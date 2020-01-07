@@ -26,12 +26,10 @@
   "keywords": [],
   "author": "denzelt",
   "dependencies": {
-    "memoize-one": "^5.1.1",
-    "moment": "^2.22.2",
-    "react-transition-group": "^4.3.0"
+    "moment": "^2.22.2"
   },
   "devDependencies": {
-    "antd": "^3.12.4",
+    "antd": "^3.20.1",
     "bind-decorator": "^1.0.11",
     "dva": "^2.4.1",
     "invariant": "^2.2.4",

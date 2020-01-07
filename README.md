@@ -1,1 +1,3 @@
-test.
+### npm component test
+
+所有配置来自于 [@closertb/antd-doddle 大佬](https://github.com/closertb/antd-doddle) 的组件库构建方式修改，感谢。
