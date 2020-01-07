@@ -1,0 +1,28 @@
+.popover-more-button {
+  padding: 0 !important;
+  .ant-popover-arrow {
+    display: none;
+  }
+  .ant-popover-inner-content {
+    padding: 4px 0;
+    & > div {
+      .ant-btn {
+        display: block;
+        width: 100%;
+        border: none !important;
+        height: 28px;
+        padding: 0 12px;
+        text-align: left;
+        box-shadow: none;
+        color: @text-color;
+        border-radius: 0;
+        transition: none;
+        background: none;
+        &:hover {
+          background-color: #008cff !important;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
