@@ -1,0 +1,8 @@
+node_modules/
+*/dist/**/*
+.docz/
+.idea/
+.vscode/
+.DS_Store
+package.lock
+.idea/vcs.xml
