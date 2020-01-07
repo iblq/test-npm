@@ -1,5 +1,5 @@
 {
-  "name": "antd-doddle/decorator",
+  "name": "blq-test/decorator",
   "private": true,
   "main": "../lib/Decorator/index.js",
   "module": "../es/Decorator/index.js"

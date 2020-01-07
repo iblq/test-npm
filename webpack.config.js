@@ -13,7 +13,7 @@ module.exports = {
   output: {
     filename: '[name].js',
     path: path.resolve(__dirname, './dist'),
-    library: 'antd-doddle',
+    library: 'blq-test',
     libraryTarget: 'umd',
     sourceMapFilename: '[file].map', // string
   },

@@ -35,7 +35,7 @@ const resetTsConfig = (rules) => {
 };
 
 const filePath = '';
-// const publicPath = ''; // //doc.closertb.site/antd-doddle
+// const publicPath = ''; // //doc.closertb.site/blq-test
 
 module.exports = {
   history: 'hash',
@@ -49,7 +49,7 @@ module.exports = {
   theme: '@doddle/doddle-bisheng-theme',
   entiryName: 'index',
   themeConfig: {
-    siteKey: 'antd-doddle',
+    siteKey: 'blq-test',
     home: '/guide/introduce',
     root: filePath,
     combineChangelog: false,
