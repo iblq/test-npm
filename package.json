@@ -112,6 +112,14 @@
     "setupFilesAfterEnv": [
       "jest-enzyme"
     ],
-    "testEnvironment": "enzyme"
+    "testEnvironment": "enzyme",
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "jsx",
+      "ts",
+      "tsx",
+      "node"
+    ]
   }
 }
