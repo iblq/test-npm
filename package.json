@@ -11,7 +11,7 @@
     "build": "webpack --config webpack.config.js",
     "lib": "gulp lib",
     "es": "gulp es",
-    "propub": "npm run test && gulp && webpack --config webpack.config.js",
+    "propub": "gulp && webpack --config webpack.config.js",
     "test": "jest ."
   },
   "files": [
