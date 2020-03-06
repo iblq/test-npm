@@ -17,7 +17,7 @@ const ARROW_CODE = {
   38: "up"
 };
 
-const DROPDOWN_HEIGHT = 224;
+const DROPDOWN_HEIGHT = 225;
 
 const Option = Select.Option;
 
